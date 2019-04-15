@@ -1,5 +1,8 @@
 # Clipboard4wiki
 Mediawiki extension that allows you to add a button to copy to the clipboard. Pure javascript, no flash.
+<p align='left'>
+<img src="https://raw.githubusercontent.com/narizhny/Clipboard4wiki/master/screenshot.png">
+</p>
 
 ## Usage
 This extension is fully compatible with old ["CopyToClipboard"](https://github.com/mojombo/clippy) extension, but works without flash.<br/>
