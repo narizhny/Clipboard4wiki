@@ -1,11 +1,8 @@
 .btn {
-  background-color: #FFFFFF;
-  border: 1px solid #CCCCCC;
-  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
-  transition: border 0.2s linear 0s, box-shadow 0.2s linear 0s;
-  border-radius: 4px;
-  color: #555555;
-  margin: 0 5px 0 5px
+  background-color: transparent;
+  border: none;
+  margin: 0 2px;
+  padding: 1px 1px;
 }
 .btn:hover, .btn:focus {
   border-color: rgba(82, 168, 236, 0.8);
